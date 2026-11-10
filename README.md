@@ -18,7 +18,6 @@ curl -fsSL https://raw.githubusercontent.com/WeiHao4426/iwan-x11-fix/main/fix-iw
 
 完成后关闭旧的 iWAN 窗口，再从应用菜单重新打开。修复只写入当前用户的 `~/.local`，不会修改系统显卡驱动或 iWAN 安装包。
 
-> 如果仓库名不是 `WeiHao4426/iwan-x11-fix`，发布前请修改上面的 Raw URL。
 
 ## 验证
 
